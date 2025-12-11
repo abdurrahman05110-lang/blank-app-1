@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("PENENTUAN_BILANGAN_GANJIL_DAN_GENAP")
-st.title("_Ujang_ is :blue[cool] :sunglasses:")
+number = st.number_input("Insert a number")
+st.write("The current number is ", number)
