@@ -6,4 +6,4 @@ st.write("The current number is ", number)
 if number%2==1:
   st.write("Bilangan", number,"termasuk bilangan ganjil")
 else:
-  st.write("Bilangan", number,"termasuk bilangan ganjil")
+  st.write("Bilangan", number,"termasuk bilangan genap")
